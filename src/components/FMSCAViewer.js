@@ -118,7 +118,7 @@ const FMSCAViewer = () => {
 
   return (
     <div>
-      <Typography variant="h4" gutterBottom>
+      <Typography padding={'0.5rem'} textAlign={'center'} variant="h4" gutterBottom>
         FMSCA Data Viewer
       </Typography>
       <TableContainer component={Paper}>
