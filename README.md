@@ -23,6 +23,9 @@ FMSCA Data Viewer is a React-based web application that fetches and displays dat
 2. Install the dependencies using `npm install`.
 3. Start the application using `npm start`.
 
+## Note
+if You have problem in install You Can Run  `npm install --legacy-peer-deps`.
+
 ## Links
 
 - **Live Deployment**: https://task-spotter-ai.vercel.app
