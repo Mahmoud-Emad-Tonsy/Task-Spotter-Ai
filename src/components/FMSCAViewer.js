@@ -132,7 +132,7 @@ const FMSCAViewer = () => {
                     variant="outlined"
                     size="small"
                     fullWidth
-                    value={filters[column.toLowerCase().replace(/\s+/g, "_")]} // Controlled input
+                    value={filters[column.toLowerCase().replace(/\s+/g, "_")]} 
                     onChange={handleFilterChange(
                       column.toLowerCase().replace(/\s+/g, "_")
                     )}
