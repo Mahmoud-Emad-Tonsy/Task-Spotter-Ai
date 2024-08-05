@@ -23,8 +23,20 @@ FMSCA Data Viewer is a React-based web application that fetches and displays dat
 2. Install the dependencies using `npm install`.
 3. Start the application using `npm start`.
 
-## Note
-if You have problem in install You Can Run  `npm install --legacy-peer-deps`.
+## Note :warning: :warning:
+if You have problem in install You Can Folow This Instructions  
+
+# Clear npm cache
+`npm cache clean --force`
+
+# Remove existing node_modules and package-lock.json
+rm -rf node_modules package-lock.json
+
+# Install the dependencies
+`npm install --legacy-peer-deps`.
+
+# Start the application using
+`npm start`
 
 ## Links
 
