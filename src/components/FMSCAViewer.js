@@ -136,13 +136,7 @@ const FMSCAViewer = () => {
                     onChange={handleFilterChange(
                       column.toLowerCase().replace(/\s+/g, "_")
                     )}
-                    InputProps={{
-                      endAdornment: (
-                        <InputAdornment position="end">
-                          <SearchIcon />
-                        </InputAdornment>
-                      ),
-                    }}
+            
                   />
                 </TableCell>
               ))}
