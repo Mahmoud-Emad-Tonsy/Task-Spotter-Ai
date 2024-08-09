@@ -2,14 +2,15 @@
 
 ## Project Description
 
-FMSCA Data Viewer is a React-based web application that fetches and displays data from an external CSV source. It provides a table view of the data with filtering capabilities and skeleton loading indicators while the data is being fetched.
+This project is a React-based web application designed for a US company offering autonomous dispatching to long-haul spot market trucking. The application fetches and displays data from an external CSV source, efficiently handling large datasets of up to 100,000 records. It provides a dynamic table view with filtering capabilities, allowing users to search and sort through data. The interface also includes skeleton loading indicators to enhance the user experience during data retrieval.
 
 ## Features
 
+- Efficiently handles and displays up to 100,000 data records.
 - Fetches data from a CSV URL using the PapaParse library.
-- Displays data in a Material-UI table.
-- Includes filters for each column to search within the data.
-- Uses skeleton loaders to indicate data loading state.
+- Displays data in a user-friendly Material-UI table.
+- Includes dynamic filters for each column to facilitate data search.
+- Uses skeleton loaders to indicate the data loading state, ensuring a smooth user experience.
 
 ## Dependencies
 
