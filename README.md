@@ -1,8 +1,8 @@
 # FMSCA Data Viewer
 
-## Project Description
+## Task  Description
 
-This project is a React-based web application designed for a US company offering autonomous dispatching to long-haul spot market trucking. The application fetches and displays data from an external CSV source, efficiently handling large datasets of up to 100,000 records. It provides a dynamic table view with filtering capabilities, allowing users to search and sort through data. The interface also includes skeleton loading indicators to enhance the user experience during data retrieval.
+This Task is a React-based web application designed for a US company offering autonomous dispatching to long-haul spot market trucking. The application fetches and displays data from an external CSV source, efficiently handling large datasets of up to 100,000 records. It provides a dynamic table view with filtering capabilities, allowing users to search and sort through data. The interface also includes skeleton loading indicators to enhance the user experience during data retrieval.
 
 ## Features
 
